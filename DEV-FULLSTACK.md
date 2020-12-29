@@ -21,7 +21,7 @@ Pour continuer sa croissance Wenity, s’améliore et de fait évoluer sa platef
 
 * 2/3 ans experience
 * Symfony
-* PHP7
+* PHP7/8
 * React native
 * Mysql
 
