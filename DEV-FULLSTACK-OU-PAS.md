@@ -26,7 +26,7 @@ Pour continuer sa croissance Wenity, s’améliore fait évoluer sa plateforme e
 * PHP7/8
 * Mysql
 
-L'envie de bien faire et la motivation pour apprendre sont des compétences appréciées, une certification [Opquast] (https://www.opquast.com/) est bien évidemment un plus.
+L'envie de bien faire et la motivation pour apprendre sont des compétences appréciées, une certification [Opquast](https://www.opquast.com/) est bien évidemment un plus.
 
 ## Stack
 
