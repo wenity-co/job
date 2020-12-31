@@ -26,6 +26,8 @@ Pour continuer sa croissance Wenity, s’améliore fait évoluer sa plateforme e
 * PHP7/8
 * Mysql
 
+L'envie de bien faire et la motivation pour apprendre sont des compétences appréciées, une certification Opquast est bien évidemment un plus.
+
 ## Stack
 
 * Docker
@@ -38,7 +40,6 @@ Pour continuer sa croissance Wenity, s’améliore fait évoluer sa plateforme e
 * Une appli web, une appli Android et une appli IOS
 
 Le travail consiste en une refonte progressive faire évoluer l'existant dans le respect des bonnes pratiques pour réaliser un produit de qualité centré sur l'expérience utilisateur.
-L'envie de bien faire et la motivation pour apprendre sont des compétences appréciées, une certification Opquast est bien évidemment un plus.
 
 ## Les conditions
 
