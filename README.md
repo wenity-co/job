@@ -4,11 +4,11 @@
 
 **Où :** Nantes
 
-**Comment :** 100% télétravail pour le moment, mais le but est de monter une équipe sur Nantes, et de prendre des locaux pour travailler en équipe. Le télétravail restera possible suivant les besoins.
+**Quoi :** Wenity permet à des centaines de communautés (étudiantes, sportives, professionnelles, …) de gérer et d’animer leurs membres ! Une unique plateforme pour simplifier et améliorer le quotidien de millions de personnes.
 
-**Quoi :** Wenity permet à des centaines de communautés (étudiantes, sportives, professionnelles, ...) de gérer et, d’animer leurs membres ! Une unique plateforme pour simplifier et améliorer le quotidien de millions de personnes.
+**Comment :** 100% télétravail, avant de prendre des bureaux sur Nantes
 
-Pour continuer sa croissance Wenity, s’améliore et de fait évoluer sa plateforme. Notre mission est de faire décoller Wenity ! 
+Pour continuer sa croissance Wenity, s’améliore fait évoluer sa plateforme et monte son équipe technique sur Nantes ! 
 
 ## Et vous ?
 
