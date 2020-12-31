@@ -4,12 +4,11 @@
 
 **Où :** Nantes
 
-**Comment :** Télétravail
+**Comment :** 100% télétravail, avant de prendre des bureaux sur Nantes
 
 **Quoi :** Wenity permet à des centaines de communautés (étudiantes, sportives, professionnelles, ...) de gérer et d’animer leurs membres ! Une unique plateforme pour simplifier et améliorer le quotidien de millions de personnes.
 
-Pour continuer sa croissance Wenity, s’améliore et fait évoluer sa plateforme. Votre mission en tant que développeur sera de faire décoller Wenity côté front !
-Et si éventuellement vous avez de l'appétence pour le back ce sera très apprécié.
+Pour continuer sa croissance Wenity, s’améliore fait évoluer sa plateforme et monte son équipe technique sur Nantes ! Votre mission en tant que développeur sera de faire décoller Wenity côté front ! Et si éventuellement vous avez de l'appétence pour le back ce sera très apprécié.
 
 ## Missions
 
@@ -35,6 +34,7 @@ Et si éventuellement vous avez de l'appétence pour le back ce sera très appr�
 * React native
 * Redis
 * Github
+* CI
 * Une appli web, une appli Android et une appli IOS
 
 Le travail consiste en une refonte progressive faire évoluer l'existant dans le respect des bonnes pratiques pour réaliser un produit de qualité centré sur l'expérience utilisateur.
@@ -42,8 +42,8 @@ L'envie de bien faire et la motivation pour apprendre sont des compétences appr
 
 ## Les conditions
 
-100% Télétravail
-Salaire selon expérience
+* 100% Télétravail
+* Salaire selon expérience
 
 ## Comment postuler ?
 
