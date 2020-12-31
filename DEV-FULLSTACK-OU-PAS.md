@@ -29,7 +29,7 @@ Pour continuer sa croissance Wenity, s’améliore fait évoluer sa plateforme e
 ## Stack
 
 * Docker
-* PHP symfony
+* PHP/Symfony
 * MySQL
 * React native
 * Redis
