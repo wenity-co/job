@@ -12,6 +12,8 @@ Pour continuer sa croissance Wenity, s’améliore fait évoluer sa plateforme e
 
 ## Et vous ?
 
-Envie de participer à notre aventure ? Postulez à l'une de nos offres ou envoyez votre candidature spontanée à martin@wenity.co !
+Envie de participer à notre aventure ? Postulez à l'une de nos offres
 
 * [Dev fullstack ou pas](https://github.com/wenity-co/job/blob/main/DEV-FULLSTACK-OU-PAS.md)
+
+Ou envoyez votre candidature spontanée à martin@wenity.co !
