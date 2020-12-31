@@ -43,7 +43,7 @@ Le travail consiste en une refonte progressive faire évoluer l'existant dans le
 
 ## Les conditions
 
-* 100% Télétravail
+* 100% Télétravail avant de prendre des bureaux sur Nantes
 * Salaire selon expérience
 
 ## Comment postuler ?
