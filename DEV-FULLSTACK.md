@@ -1,4 +1,4 @@
-# Développeur(se) Fullstack - Symfony + React native
+# Développeur(se) Fullstack (ou pas) - React Native / Symfony
 
 **Domaine :**  Plateforme de gestion de communautés
 
@@ -6,9 +6,10 @@
 
 **Comment :** Télétravail
 
-**Quoi :** Wenity permet à des centaines de communautés (étudiantes, sportives, professionnelles, ...) de gérer et, d’animer leurs membres ! Une unique plateforme pour simplifier et améliorer le quotidien de millions de personnes.
+**Quoi :** Wenity permet à des centaines de communautés (étudiantes, sportives, professionnelles, ...) de gérer et d’animer leurs membres ! Une unique plateforme pour simplifier et améliorer le quotidien de millions de personnes.
 
-Pour continuer sa croissance Wenity, s’améliore et de fait évoluer sa plateforme. Votre mission en tant que développeur fullstack sera de faire décoller Wenity ! 
+Pour continuer sa croissance Wenity, s’améliore et fait évoluer sa plateforme. Votre mission en tant que développeur sera de faire décoller Wenity côté front !
+Et si éventuellement vous avez de l'appétence pour le back ce sera très apprécié.
 
 ## Missions
 
@@ -16,13 +17,14 @@ Pour continuer sa croissance Wenity, s’améliore et de fait évoluer sa platef
 * Concevoir et développer et maintenir de nouveaux modules en PHP Symfony / React Native
 * Tester et assurer la conformité des développements et appliquer les correctifs
 * Monter en compétences !
+* Être fier du travail réalisé
 
 ## Profil
 
 * 2/3 ans experience
+* React native
 * Symfony
 * PHP7/8
-* React native
 * Mysql
 
 ## Stack
