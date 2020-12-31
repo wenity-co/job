@@ -4,11 +4,11 @@
 
 **Où :** Nantes
 
-**Comment :** 100% télétravail, avant de prendre des bureaux sur Nantes
-
 **Quoi :** Wenity permet à des centaines de communautés (étudiantes, sportives, professionnelles, ...) de gérer et d’animer leurs membres ! Une unique plateforme pour simplifier et améliorer le quotidien de millions de personnes.
 
 Pour continuer sa croissance Wenity, s’améliore fait évoluer sa plateforme et monte son équipe technique sur Nantes ! Votre mission en tant que développeur sera de faire décoller Wenity côté front ! Et si éventuellement vous avez de l'appétence pour le back ce sera très apprécié.
+
+**Comment :** 100% télétravail, avant de prendre des bureaux sur Nantes
 
 ## Missions
 
