@@ -21,25 +21,25 @@ Pour continuer sa croissance Wenity, s’améliore fait évoluer sa plateforme e
 ## Profil
 
 * 2/3 ans experience
-* React native
+* ReactJS / React native
 * Symfony
 * PHP7/8
 * Mysql
 
-L'envie de bien faire et la motivation pour apprendre sont des compétences appréciées, une certification [Opquast](https://www.opquast.com/) est bien évidemment un plus.
+L'envie de bien faire, la motivation pour apprendre, le sens du détail et de l'UX sont des compétences appréciées,  une certification [Opquast](https://www.opquast.com/) est bien évidemment un plus.
 
 ## Stack
 
 * Docker
 * PHP/Symfony
 * MySQL
-* React native
+* ReactJS / React native
 * Redis
 * Github
 * CI
 * Une appli web, une appli Android et une appli IOS
 
-Le travail consiste en une refonte progressive faire évoluer l'existant dans le respect des bonnes pratiques pour réaliser un produit de qualité centré sur l'expérience utilisateur.
+Le travail consiste en une refonte progressive pour faire évoluer l'existant dans le respect des bonnes pratiques et pour réaliser un produit de qualité centré sur l'expérience utilisateur.
 
 ## Les conditions
 
