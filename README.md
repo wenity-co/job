@@ -8,11 +8,11 @@
 
 **Comment :** 100% télétravail, avant de prendre des bureaux sur Nantes
 
-Pour continuer sa croissance Wenity, s’améliore fait évoluer sa plateforme et monte son équipe technique sur Nantes ! 
+Pour continuer sa croissance Wenity, s’améliore fait évoluer sa plateforme et monte une équipe technique sur Nantes ! 
 
 ## Et vous ?
 
-Envie de participer à notre aventure ? Postulez à l'une de nos offres
+Envie de participer à notre aventure ? Postulez à l'une de nos offres et rejoignez Sana, Daniel, Stan et Alexandre !
 
 * [Dev fullstack ou pas](https://github.com/wenity-co/job/blob/main/DEV-FULLSTACK-OU-PAS.md)
 
