@@ -12,7 +12,7 @@ Pour continuer sa croissance Wenity, s’améliore fait évoluer sa plateforme e
 
 ## Missions
 
-* Faire partie d'une équipe sympa !
+* Faire partie d'une équipe sympa ! (Sana, Alexandre, Daniel, Stan et Mélanie)
 * Concevoir et développer et maintenir de nouveaux modules en PHP Symfony / React Native
 * Tester et assurer la conformité des développements et appliquer les correctifs
 * Monter en compétences !
